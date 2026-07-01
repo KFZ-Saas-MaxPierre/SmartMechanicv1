@@ -1,0 +1,6 @@
+# PostgreSQL-Verbindung (z. B. von Supabase oder einer anderen Postgres-Instanz)
+DATABASE_URL="postgresql://USER:PASSWORD@HOST:5432/werkstattlotse"
+
+# Auth (Platzhalter - Supabase Auth oder Clerk je nach Entscheidung)
+# NEXT_PUBLIC_SUPABASE_URL=
+# NEXT_PUBLIC_SUPABASE_ANON_KEY=
