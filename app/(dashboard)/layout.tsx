@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+export const dynamic = "force-dynamic";
+
 const navItems = [
   { href: "/calendar", label: "Kalender" },
   { href: "/customers", label: "Kunden" },
